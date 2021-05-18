@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @maverick-AB
-- 👀 I’m interested in Data Structures & Algorithms, Computer Vision, Competitive Coding, Mathematics and Space Missions.
+- 👋 Hi, I’m Avishek Bharti, freshman at IIT Kanpur.
+- 👀 I’m interested in Data Structures & Algorithms, Competitive Coding, Machine Learning & AI.
 - 🌱 I’m currently learning Algorithms & Web Development.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : Mail me at "bhartiavi1123@gmail.com"
+- 📫 How to reach me : Mail me at "bhartiavi1123@gmail.com" or "avishekb20@iitk.ac.in"
 
 <!---
 maverick-AB/maverick-AB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
